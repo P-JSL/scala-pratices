@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a288a50e-e3c9-42e6-8977-3a4a4a4bf9e8" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.cache-main" beforeDir="false" afterPath="$PROJECT_DIR$/.cache-main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/Ex_4/Ex_4_4$.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/Ex_4/Ex_4_4$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/Ex_4/Ex_4_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/Ex_4/Ex_4_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Ex_4/Ex_4_4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Ex_4/Ex_4_4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/READMD.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,28 +17,36 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="scala-pratice/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2BYymkXiWO2rPT9rmmKhNlyFnQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/core/workspace/test",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/core/workspace/test&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -43,10 +56,30 @@
       <option name="presentableId" value="Default" />
       <updated>1657097473730</updated>
       <workItem from="1657097475218" duration="27000" />
+      <workItem from="1657155710945" duration="934000" />
     </task>
+    <task id="LOCAL-00001" summary="t">
+      <created>1657155729012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657155729012</updated>
+    </task>
+    <task id="LOCAL-00002" summary="t">
+      <created>1657155742974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657155742974</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="t" />
+    <option name="LAST_COMMIT_MESSAGE" value="t" />
   </component>
 </project>
